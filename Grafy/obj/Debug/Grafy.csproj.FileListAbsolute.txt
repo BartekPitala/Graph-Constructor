@@ -1,0 +1,73 @@
+c:\users\petro\documents\visual studio 2015\Projects\Grafy\Grafy\bin\Debug\Grafy.exe.config
+c:\users\petro\documents\visual studio 2015\Projects\Grafy\Grafy\bin\Debug\Grafy.exe
+c:\users\petro\documents\visual studio 2015\Projects\Grafy\Grafy\bin\Debug\Grafy.pdb
+c:\users\petro\documents\visual studio 2015\Projects\Grafy\Grafy\obj\Debug\Grafy.csprojResolveAssemblyReference.cache
+c:\users\petro\documents\visual studio 2015\Projects\Grafy\Grafy\obj\Debug\MainWindow.g.cs
+c:\users\petro\documents\visual studio 2015\Projects\Grafy\Grafy\obj\Debug\App.g.cs
+c:\users\petro\documents\visual studio 2015\Projects\Grafy\Grafy\obj\Debug\Grafy_MarkupCompile.cache
+c:\users\petro\documents\visual studio 2015\Projects\Grafy\Grafy\obj\Debug\MainWindow.baml
+c:\users\petro\documents\visual studio 2015\Projects\Grafy\Grafy\obj\Debug\Grafy.g.resources
+c:\users\petro\documents\visual studio 2015\Projects\Grafy\Grafy\obj\Debug\Grafy.Properties.Resources.resources
+c:\users\petro\documents\visual studio 2015\Projects\Grafy\Grafy\obj\Debug\Grafy.csproj.GenerateResource.Cache
+c:\users\petro\documents\visual studio 2015\Projects\Grafy\Grafy\obj\Debug\Grafy.exe
+c:\users\petro\documents\visual studio 2015\Projects\Grafy\Grafy\obj\Debug\Grafy.pdb
+c:\users\petro\documents\visual studio 2015\Projects\Grafy\Grafy\obj\Debug\Grafy_MarkupCompile.lref
+C:\Users\Bartek\Desktop\Grafy\Zestaw1\Grafy\Grafy\Grafy\bin\Debug\Grafy.exe.config
+C:\Users\Bartek\Desktop\Grafy\Zestaw1\Grafy\Grafy\Grafy\obj\Debug\Grafy.exe
+C:\Users\Bartek\Desktop\Grafy\Zestaw1\Grafy\Grafy\Grafy\obj\Debug\Grafy.pdb
+C:\Users\Bartek\Desktop\Grafy\Zestaw1\Grafy\Grafy\Grafy\bin\Debug\Grafy.exe
+C:\Users\Bartek\Desktop\Grafy\Zestaw1\Grafy\Grafy\Grafy\bin\Debug\Grafy.pdb
+C:\Users\Bartek\Desktop\Grafy\Zestaw1\Grafy\Grafy\Grafy\obj\Debug\Grafy.csprojResolveAssemblyReference.cache
+C:\Users\Bartek\Desktop\Grafy\Zestaw1\Grafy\Grafy\Grafy\obj\Debug\MainWindow.g.cs
+C:\Users\Bartek\Desktop\Grafy\Zestaw1\Grafy\Grafy\Grafy\obj\Debug\App.g.cs
+C:\Users\Bartek\Desktop\Grafy\Zestaw1\Grafy\Grafy\Grafy\obj\Debug\Grafy_MarkupCompile.cache
+C:\Users\Bartek\Desktop\Grafy\Zestaw1\Grafy\Grafy\Grafy\obj\Debug\Grafy_MarkupCompile.lref
+C:\Users\Bartek\Desktop\Grafy\Zestaw1\Grafy\Grafy\Grafy\obj\Debug\MainWindow.baml
+C:\Users\Bartek\Desktop\Grafy\Zestaw1\Grafy\Grafy\Grafy\obj\Debug\Grafy.g.resources
+C:\Users\Bartek\Desktop\Grafy\Zestaw1\Grafy\Grafy\Grafy\obj\Debug\Grafy.Properties.Resources.resources
+C:\Users\Bartek\Desktop\Grafy\Zestaw1\Grafy\Grafy\Grafy\obj\Debug\Grafy.csproj.GenerateResource.Cache
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Grafy\Grafy\bin\Debug\Grafy.exe.config
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Grafy\Grafy\obj\Debug\Grafy.exe
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Grafy\Grafy\obj\Debug\Grafy.pdb
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Grafy\Grafy\bin\Debug\Grafy.exe
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Grafy\Grafy\bin\Debug\Grafy.pdb
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Grafy\Grafy\obj\Debug\Grafy.csprojResolveAssemblyReference.cache
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Grafy\Grafy\obj\Debug\MainWindow.g.cs
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Grafy\Grafy\obj\Debug\App.g.cs
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Grafy\Grafy\obj\Debug\Grafy_MarkupCompile.cache
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Grafy\Grafy\obj\Debug\Grafy_MarkupCompile.lref
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Grafy\Grafy\obj\Debug\MainWindow.baml
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Grafy\Grafy\obj\Debug\Grafy.g.resources
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Grafy\Grafy\obj\Debug\Grafy.Properties.Resources.resources
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Grafy\Grafy\obj\Debug\Grafy.csproj.GenerateResource.Cache
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Grafy\GrafyLAB1\Grafy\bin\Debug\Grafy.exe.config
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Grafy\GrafyLAB1\Grafy\obj\Debug\Grafy.exe
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Grafy\GrafyLAB1\Grafy\obj\Debug\Grafy.pdb
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Grafy\GrafyLAB1\Grafy\obj\Debug\Grafy.csprojResolveAssemblyReference.cache
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Grafy\GrafyLAB1\Grafy\obj\Debug\MainWindow.g.cs
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Grafy\GrafyLAB1\Grafy\obj\Debug\App.g.cs
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Grafy\GrafyLAB1\Grafy\obj\Debug\Grafy_MarkupCompile.cache
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Grafy\GrafyLAB1\Grafy\obj\Debug\Grafy_MarkupCompile.lref
+<<<<<<< HEAD
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Grafy\GrafyLAB1\Grafy\bin\Debug\Grafy.exe
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Grafy\GrafyLAB1\Grafy\bin\Debug\Grafy.pdb
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Grafy\GrafyLAB1\Grafy\obj\Debug\MainWindow.baml
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Grafy\GrafyLAB1\Grafy\obj\Debug\Grafy.g.resources
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Grafy\GrafyLAB1\Grafy\obj\Debug\Grafy.Properties.Resources.resources
+C:\Users\Bartek\Documents\Visual Studio 2015\Projects\Grafy\GrafyLAB1\Grafy\obj\Debug\Grafy.csproj.GenerateResource.Cache
+=======
+C:\Users\Petro\Documents\Visual Studio 2015\Projects\Grafy\GrafyLAB1\Grafy\bin\Debug\Grafy.exe.config
+C:\Users\Petro\Documents\Visual Studio 2015\Projects\Grafy\GrafyLAB1\Grafy\obj\Debug\Grafy.exe
+C:\Users\Petro\Documents\Visual Studio 2015\Projects\Grafy\GrafyLAB1\Grafy\obj\Debug\Grafy.pdb
+C:\Users\Petro\Documents\Visual Studio 2015\Projects\Grafy\GrafyLAB1\Grafy\bin\Debug\Grafy.exe
+C:\Users\Petro\Documents\Visual Studio 2015\Projects\Grafy\GrafyLAB1\Grafy\bin\Debug\Grafy.pdb
+C:\Users\Petro\Documents\Visual Studio 2015\Projects\Grafy\GrafyLAB1\Grafy\obj\Debug\Grafy.csprojResolveAssemblyReference.cache
+C:\Users\Petro\Documents\Visual Studio 2015\Projects\Grafy\GrafyLAB1\Grafy\obj\Debug\MainWindow.g.cs
+C:\Users\Petro\Documents\Visual Studio 2015\Projects\Grafy\GrafyLAB1\Grafy\obj\Debug\App.g.cs
+C:\Users\Petro\Documents\Visual Studio 2015\Projects\Grafy\GrafyLAB1\Grafy\obj\Debug\Grafy_MarkupCompile.cache
+C:\Users\Petro\Documents\Visual Studio 2015\Projects\Grafy\GrafyLAB1\Grafy\obj\Debug\Grafy_MarkupCompile.lref
+C:\Users\Petro\Documents\Visual Studio 2015\Projects\Grafy\GrafyLAB1\Grafy\obj\Debug\MainWindow.baml
+C:\Users\Petro\Documents\Visual Studio 2015\Projects\Grafy\GrafyLAB1\Grafy\obj\Debug\Grafy.g.resources
+C:\Users\Petro\Documents\Visual Studio 2015\Projects\Grafy\GrafyLAB1\Grafy\obj\Debug\Grafy.Properties.Resources.resources
+C:\Users\Petro\Documents\Visual Studio 2015\Projects\Grafy\GrafyLAB1\Grafy\obj\Debug\Grafy.csproj.GenerateResource.Cache
+>>>>>>> 747f68ef960be042bd4a4174ee61b2617a1a577c
