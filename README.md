@@ -1,3 +1,4 @@
+![alt text](https://github.com/BartekPitala/Graph-Constructor/blob/master/Grafy/bin/Screen.png)
 # Graphs Project
 Small WPF application created as part of project at AGH University of Science and Technology.
 It is responsible for visualization of simple graph. You can read the graph from the file (format of Matrix)  or simply put all tops of graph and their "neighbours" from GUI. Program written in POLISH!
